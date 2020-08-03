@@ -1,0 +1,48 @@
+# Welcome to Jekyll configs
+
+title: Vanessa Guedes
+email: vanessa@avessaeavulsa.com
+description: >- # this means to ignore newlines until "baseurl:"
+ Ficção científica, horror e não-ficção. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: nessoila
+instagram_username: sayhellotovanessa
+# github_username:  sayhellotovanessa
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Github pages configs
+
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
