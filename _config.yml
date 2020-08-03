@@ -4,7 +4,7 @@ title: Vanessa Guedes
 email: vanessa@avessaeavulsa.com
 description: >- # this means to ignore newlines until "baseurl:"
  Ficção científica, horror e não-ficção. 
-baseurl: "vrocks" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sayhellotovanessa.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nessoila
 instagram_username: sayhellotovanessa
