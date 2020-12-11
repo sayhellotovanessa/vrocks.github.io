@@ -7,7 +7,7 @@ layout: page
 
 Olá!
 
-Meu nome é Vanessa Guedes. Escrevo ficção científica e horror. Também me aventuro em não-ficção. Escrevo em Português e Inglês. Mas também sou versada na língua das máquinas - durante o dia trabalho com linguagens de programação. Também faço as vezes de editora na **[Eita! Magazine] (http://www.vanessaguedes.rocks)**.
+Meu nome é Vanessa Guedes. Escrevo ficção científica e horror. Também me aventuro em não-ficção. Escrevo em Português e Inglês. Mas também sou versada na língua das máquinas - durante o dia trabalho com linguagens de programação. Também faço as vezes de editora na **[Eita! Magazine](http://www.vanessaguedes.rocks)**.
 
 **[instagram](https://www.instagram.com/vanessainpixels/)**
 
