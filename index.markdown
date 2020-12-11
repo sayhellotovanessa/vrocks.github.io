@@ -8,7 +8,10 @@ layout: page
 Olá!
 
 Meu nome é Vanessa Guedes. Escrevo ficção científica e horror. E faço as vezes de editora na **[Eita! Magazine](https://www.eitamagazine.com)**. 
-Também me aventuro em não-ficção. Escrevo em português quando dá na telha e em inglês quando precisa. Mas também sou versada na língua das máquinas - durante o dia trabalho com linguagens de programação.
+
+Às vezes me aventuro em não-ficção. Escrevo em português quando dá na telha e em inglês quando precisa. 
+
+E também sou versada na língua das máquinas - durante o dia trabalho com linguagens de programação.
 
 
 **[instagram](https://www.instagram.com/vanessainpixels/)**
