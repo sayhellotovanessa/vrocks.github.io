@@ -21,9 +21,6 @@ Vanessa também é versada na língua das máquinas – trabalha com linguagens 
 
 ## Publicações
 
-Tenho publicado aqui e ali pela internet há mais de 10 anos.
-
-
 ### Ficção
 
 * ["Suor e silício na terra da Garoa"](https://mafagaforevista.com.br/edicao-3/), 3a edição.
