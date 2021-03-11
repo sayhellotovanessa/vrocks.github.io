@@ -5,13 +5,9 @@
 layout: page
 ---
 
-Olá!
-
-Meu nome é Vanessa Guedes. Escrevo ficção científica e horror. E faço as vezes de editora na **[Eita! Magazine](https://www.eitamagazine.com)**. 
-
-Às vezes me aventuro em não-ficção. Escrevo em português quando dá na telha e em inglês quando precisa. 
-
-E também sou versada na língua das máquinas - durante o dia trabalho com linguagens de programação.
+Vanessa Guedes é escritora de ficção especulativa. E também é editora e tradutora Português-Inglês na **[Eita! Magazine](https://www.eitamagazine.com)**.
+Publicou o cyberpunk Suor e silício na terra da garoa, na terceira edição da revista Mafagafo, em 2020. E verteu o conto O País da Quimeras, de Machado de Assis, para o inglês na primeira edição da Eita! Magazine, também em 2020.
+Também é versada na língua das máquinas – trabalha com linguagens de programação web em Estocolmo, na Suécia, desde 2015.
 
 
 **[instagram](https://www.instagram.com/vanessainpixels/)**
@@ -20,19 +16,23 @@ E também sou versada na língua das máquinas - durante o dia trabalho com ling
 
 
 
-## Meu trabalho
+## Publicações
 
 Tenho publicado aqui e ali pela internet há mais de 10 anos.
 
-### Publicações
 
-#### Ficção
+### Ficção
 
-* [Revista Mafagafo](https://mafagaforevista.com.br/edicao-3/), 3a edição.
+* ["Suor e silício na terra da Garoa"](https://mafagaforevista.com.br/edicao-3/), 3a edição.
 
-  * **"Suor e silício na terra da Garoa"**, [julho de 2020](https://mafagaforevista.com.br/edicao-3-julho/) - Ficção científica. 
+  * **Noveleta. Revista Mafagafo, terceira edição**, [julho de 2020](https://mafagaforevista.com.br/edicao-3-julho/) - Ficção científica. 
 
-#### Não-ficção
+
+* ["Gênese de um corpo quente"](https://www.amazon.com.br/Gênese-corpo-quente-Vanessa-Guedes-ebook/dp/B08VBYLBK6?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=vanessa+guedes&qid=1611953260&sr=8-1&linkCode=sl1&tag=viajany-20&linkId=90ad27f413edaffeac915bfb5b486975&language=pt_BR&ref_=as_li_ss_tl)
+
+  * **Conto. Publicação independente.**, Janeiro de 2021 - Horror. 
+
+### Não-ficção
 
 * [Avessa & Avulsa](https://avessaeavulsa.com/) - atualização com meus últimos textos em português.
 
