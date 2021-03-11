@@ -5,7 +5,7 @@
 layout: page
 ---
 
-Vanessa Guedes é escritora de ficção especulativa. E também é editora e tradutora Português-Inglês na **[Eita! Magazine](https://www.eitamagazine.com)**.
+Vanessa Guedes é escritora de ficção especulativa, editora e tradutora Português-Inglês na **[Eita! Magazine](https://www.eitamagazine.com)**.
 Publicou o cyberpunk Suor e silício na terra da garoa, na terceira edição da revista Mafagafo, em 2020. E verteu o conto O País da Quimeras, de Machado de Assis, para o inglês na primeira edição da Eita! Magazine, também em 2020.
 Também é versada na língua das máquinas – trabalha com linguagens de programação web em Estocolmo, na Suécia, desde 2015.
 
