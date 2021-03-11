@@ -25,7 +25,7 @@ Vanessa também é versada na língua das máquinas – trabalha com linguagens 
 
 * ["Suor e silício na terra da Garoa"](https://mafagaforevista.com.br/edicao-3/), 3a edição.
 
-  * **Noveleta. Revista Mafagafo, terceira edição**, [julho de 2020](https://mafagaforevista.com.br/edicao-3-julho/) - Ficção científica. 
+  * **Noveleta. Revista Mafagafo, terceira edição**, Julho de 2020 - Ficção científica. 
   
 
 
