@@ -26,6 +26,7 @@ Tenho publicado aqui e ali pela internet há mais de 10 anos.
 * ["Suor e silício na terra da Garoa"](https://mafagaforevista.com.br/edicao-3/), 3a edição.
 
   * **Noveleta. Revista Mafagafo, terceira edição**, [julho de 2020](https://mafagaforevista.com.br/edicao-3-julho/) - Ficção científica. 
+  
 
 
 * ["Gênese de um corpo quente"](https://www.amazon.com.br/Gênese-corpo-quente-Vanessa-Guedes-ebook/dp/B08VBYLBK6?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=vanessa+guedes&qid=1611953260&sr=8-1&linkCode=sl1&tag=viajany-20&linkId=90ad27f413edaffeac915bfb5b486975&language=pt_BR&ref_=as_li_ss_tl)
@@ -34,10 +35,10 @@ Tenho publicado aqui e ali pela internet há mais de 10 anos.
 
 ### Não-ficção
 
-* [Avessa & Avulsa](https://avessaeavulsa.com/) - atualização com meus últimos textos em português.
+* [Avessa & Avulsa](https://avessaeavulsa.com/) - atualização com ensaios pessoais em português.
 
-* [Blogueiras Feministas](https://blogueirasfeministas.com/?s=Texto+de+Nessa+Guedes) - Escrevi durante um período para o Blogueiras Feministas, onde participei ativamente do grupo entre 2009 e 2012. Aqui elas guardam alguns dos meus primeiros textos em blogs coletivos.
+* [Blogueiras Feministas](https://blogueirasfeministas.com/?s=Texto+de+Nessa+Guedes) - Artigos publicados entre entre 2009 e 2012.
 
-* [Papo de Homem](https://papodehomem.com.br/autores/vanessa-guedes/#artigos) – Publiquei alguns textos na revista online Papo de Homem, entre 2011 e 2015. Sempre com um ponto de vista feminista e educacional.
+* [Papo de Homem](https://papodehomem.com.br/autores/vanessa-guedes/#artigos) – Artigos sobre feminismo, publicados entre 2011 e 2015. 
 
-* Outros - Publiquei em outras revistas online que hoje estão fora do ar, como a **Lugar de Mulher** (projeto de cunho feminista que ficou no ar de 2014 a 2018) e meu antigo blog pessoal, **Garota Coca-Cola**, que ficou no ar de 2007 a 2016.
+* Outros - Também publicou em outras revistas online que hoje estão fora do ar, como a **Lugar de Mulher** (projeto de cunho feminista que ficou ativo 2014 a 2018) e seu antigo blog pessoal, **Garota Coca-Cola**, online de 2007 a 2016.
