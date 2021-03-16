@@ -4,7 +4,7 @@
 .site-header {
   border-bottom: $dark-line-height solid $dark-line;
   min-height: $spacing-unit * 1.865;
-
+  background: $background-color;
   position: -webkit-sticky;
   position: sticky;
   top: 0;
@@ -32,6 +32,7 @@
 
 h1, h2, h3, h4 {
   font-family: $base-heading;
+  color: $links-color;
 }
 
 .site-nav {
@@ -60,7 +61,7 @@ h1, h2, h3, h4 {
     position: absolute;
     top: 9px;
     right: $spacing-unit / 2;
-    background-color: $background-color;
+    background: $background-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
@@ -202,6 +203,7 @@ h1, h2, h3, h4 {
 .page-content {
   padding: $spacing-unit;
   flex: 1;
+  background: $content-bg;
 }
 
 .page-heading {

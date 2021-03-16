@@ -18,9 +18,12 @@ $spacing-unit:     30px !default;
 
 $dark-line:      #111 !default;
 
+$content-bg:     #fff !default;
+
 $text-color:       #111 !default;
-$background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
+$background-color: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%) !default;
+$brand-color:      #280ee4 !default;
+$links-color:      #7b5cdc !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
