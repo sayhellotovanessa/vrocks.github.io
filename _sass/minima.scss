@@ -12,8 +12,11 @@ $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 $base-heading: Domine, serif;
+$dark-line-height: 3px;
 
 $spacing-unit:     30px !default;
+
+$dark-line:      #111 !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
