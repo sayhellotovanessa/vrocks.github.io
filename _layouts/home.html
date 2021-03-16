@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
+
 <div class="main-top">
+
     <article class="media">
   
       <div class="author-image">
@@ -12,8 +14,16 @@ layout: default
     <article class="post">
   
       <div class="post-content">
-        {{ content }}
+        {{ page.highlight | markdownify }}
       </div>
     
     </article>
   </div>
+
+  <article class="post">
+  
+    <div class="post-content">
+      {{ content }}
+    </div>
+  
+  </article>
