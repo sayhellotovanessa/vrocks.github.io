@@ -179,6 +179,14 @@ h1, h2, h3, h4 {
 /**
  * Page content
  */
+
+ .main-top {
+   display: flex;
+ }
+
+ .media {
+   padding: $spacing-unit;
+ }
 .page-content {
   padding: 0;
   flex: 1;
