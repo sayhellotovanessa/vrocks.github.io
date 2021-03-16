@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: home
 ---
 
 Vanessa Guedes é escritora de ficção especulativa, editora e tradutora Português-Inglês na **[Eita! Magazine](https://www.eitamagazine.com)**.
