@@ -1,28 +1,35 @@
 @charset "utf-8";
 
-// Imports
+// Fonts
 
-@import url('https://fonts.googleapis.com/css2?family=Caladea:ital,wght@0,400;0,700;1,400&family=Domine:wght@700&display=swap');
+@font-face {
+  font-family: 'Inter';
+  src:url('../assets/fonts/Inter-Black.ttf'), format('truetype');
+}
 
+@font-face {
+  font-family: 'Patua';
+  src:url('../assets/fonts/Patua.ttf'), format('truetype');
+}
 // Define defaults for each variable.
 
-$base-font-family: 'Caladea', serif !default;
+$base-font-family: 'Patua', sans-serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
-$base-heading: Domine, serif;
-$dark-line-height: 3px;
+$base-heading: 'Inter', sans-serif;
 
 $spacing-unit:     30px !default;
 
+$dark-line-height: 3px;
 $dark-line:      #111 !default;
 
 $content-bg:     #fff !default;
 
 $text-color:       #111 !default;
 $background-color: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%) !default;
-$brand-color:      #280ee4 !default;
+$brand-color:      #e4008b !default;
 $links-color:      #7b5cdc !default;
 
 $grey-color:       #828282 !default;
