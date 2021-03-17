@@ -198,6 +198,10 @@ h1, h2, h3, h4 {
    @include media-query($on-palm) {
      display: block;
    }
+
+   .contact {
+     padding: $spacing-unit;
+   }
  }
 .post {
   flex: 1;

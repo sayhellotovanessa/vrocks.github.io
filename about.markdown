@@ -4,29 +4,25 @@ title: English
 permalink: /english/
 ---
 
-Hi!
+Vanessa Guedes is a speculative fiction author, editor and translator at **[Eita! Magazine](https://www.eitamagazine.com)**. She was born in Brazil, in 1990.
 
-I'm Vanessa Guedes. I write science fiction and horror. I also do some nonfiction. I write in Portuguese and English. And I'm also fluent in the computer's words - during the day I work as a software developer.
+She published the cyberpunk novelette "Suor e silício na terra da garoa" (Mafagafo, 2020) and the horror short story "Gênese de um corpo quente" (self publishing, 2021), and other titles.
 
-[instagram](instagram.com/sayhellotovanessa)
+As a translator, she worked on Machado de Assis' short story 'The Land of Chimeras' for the first issue of Eita! Magazine, a work included in the list of eligible translations for the SFF Rosetta Awards.
 
-[medium](https://medium.com/@sayhellotovanessa)
+Vanessa is also fluent in some machine languages - she has been working as a programmer in Stockholm, Sweden, since 2015. 
 
 
-## Work
+**[instagram](https://www.instagram.com/vanessainpixels/)**
 
-I've been publishing here and there for over 10 years on the internet.
+**[twitter](https://twitter.com/vanessainpixels)**
 
-### Last Publications
-
-* In English
-  * [My articles on Medium](https://medium.com/@sayhellotovanessa) 
+email: **[vanessa@avessaeavulsa.com](mailto:vanessa@avessaeavulsa.com)**
 
 
 
-* In Portuguese 
-  * [Revista Mafagafo](https://mafagaforevista.com.br/edicao-3/), 3rd edition:
-    *  **"Suor e silício na terra da Garoa"**, [julho de 2020](https://mafagaforevista.com.br/edicao-3-julho/) - Ficção científica. 
+
+
 
 
 
