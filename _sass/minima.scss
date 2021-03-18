@@ -4,7 +4,12 @@
 
 @font-face {
   font-family: 'Inter';
-  src:url('../assets/fonts/Inter-Black.ttf'), format('truetype');
+  src: url('../assets/fonts/Inter-Black.ttf') format('truetype'),
+       url('../assets/fonts/Inter-Black.eot'), 
+       url('../assets/fonts/Inter-Black.svg#font'),
+       url('../assets/fonts/Inter-Black.woff'), 
+       url('../assets/fonts/Inter-Black.woff2');
+
 }
 
 @font-face {
