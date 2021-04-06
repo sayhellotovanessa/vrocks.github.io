@@ -29,6 +29,14 @@ highlight: Vanessa Guedes é escritora de ficção especulativa, editora e tradu
 
   * **Conto. Publicação independente.**, Janeiro de 2021 - Horror. 
 
+* ["O despertar"](https://mailchi.mp/85a5bb960eb4/faiscat3e9?e=46a2f026bc), Faísca.
+
+  * **Conto. Newsletter Faísca, terceira temporada, episódio 9**, Novembro de 2020 - Horror. 
+
+* "A felicidade de Ana K.", o Ninho de Serpentes.
+  * Conto. **Clube Hussardos**, 2014. - Narrativa ficcional.
+
+
 ### Não-ficção
 
 * [Avessa & Avulsa](https://avessaeavulsa.com/) - atualização com ensaios pessoais em português.
