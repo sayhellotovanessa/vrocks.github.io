@@ -19,7 +19,7 @@ highlight: Vanessa Guedes é escritora de ficção especulativa, editora e tradu
 
 ### Ficção
 
-* ["Suor e silício na terra da Garoa"](https://mafagaforevista.com.br/edicao-3/), 3a edição.
+* ["Suor e silício na terra da Garoa"](https://mafagaforevista.com.br/edicao-3/)
 
   * **Noveleta. Revista Mafagafo, terceira edição**, Julho de 2020 - Ficção científica. 
   
@@ -29,12 +29,12 @@ highlight: Vanessa Guedes é escritora de ficção especulativa, editora e tradu
 
   * **Conto. Publicação independente.**, Janeiro de 2021 - Horror. 
 
-* ["O despertar"](https://mailchi.mp/85a5bb960eb4/faiscat3e9?e=46a2f026bc), Faísca.
+* ["O despertar"](https://mailchi.mp/85a5bb960eb4/faiscat3e9?e=46a2f026bc)
 
   * **Conto. Newsletter Faísca, terceira temporada, episódio 9**, Novembro de 2020 - Horror. 
 
-* "A felicidade de Ana K.", o Ninho de Serpentes.
-  * Conto. **Clube Hussardos**, 2014. - Narrativa ficcional.
+* "A felicidade de Ana K.", 
+  * **Conto. O ninho de serpentes, editora Clube Hussardos**, 2014. - Narrativa ficcional.
 
 
 ### Não-ficção
